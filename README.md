@@ -1,8 +1,12 @@
-- 👋 Hi, I’m @TezcatlipocaStudios, a singular, independent programmer
-- 👀 I’m interested in everything surrounding GameDev
-- 🌱 I’m currently learning c++ and html
-
-<!---
-TezcatlipocaStudios/TezcatlipocaStudios is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+# TezcatlipocaStudios
+## About
+TezcatlipocaStudios is a programming studio dedicated to be a name I can post my work under (yes, TezcatlipocaStudios is, at the moment, one person)
+## Languages
++ Python
++ C++
++ Html
++ Css
++ Javascript
+## Social
++ [Our web page](https://sites.google.com/view/tezcatlipocastudios/welcome)
++ [Contact us](https://forms.gle/P7Lx5fSixaDxASz58)
